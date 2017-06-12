@@ -1,1 +1,1 @@
-Please run the application and open you server on localhost:8989 
+open you server on localhost:8989 and have mongodb installed
